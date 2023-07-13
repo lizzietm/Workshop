@@ -1,1 +1,1 @@
-This is a test file for the Git hub whiich we might edit later
+This is a test file for the Git hub which we might edit later
